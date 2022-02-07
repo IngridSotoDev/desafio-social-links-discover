@@ -2,11 +2,7 @@
 
 <p align="center">
   <a href="https://ingridsotodev.github.io/desafio-social-links-discover/">
-    <img
-      alt="Social Link"
-      src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fccd98d58-f227-4283-b3c9-e729aa9dbe4f%2FCapturar.png?id=70422887-8755-455a-ad5d-e5137f41e852&table=block&spaceId=23358dc7-d3e9-4235-9cb4-6088e80c3d9b&width=2000&userId=25930ea8-4ace-491d-a5e2-a1acdef2538c&cache=v2"
-      width="2000"
-    />
+    ![Preview](.github/preview.png)
   </a>
 </p>
 
