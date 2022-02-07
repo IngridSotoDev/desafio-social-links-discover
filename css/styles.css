@@ -1,6 +1,7 @@
 :root {
   --body-bg-color:#FAF7FD;
   --purple: #bb99dd;
+  --linea-bg-color:  linear-gradient(90deg, rgba(254,93,224,1) 0%, rgba(242,1,2,1) 16%, rgba(255,134,1,1) 33%, rgba(252,246,1,1) 49%, rgba(1,135,35,1) 66%, rgba(69,0,253,1) 83%, rgba(132,2,136,1) 100%); 
 }
 
 * {
@@ -36,7 +37,7 @@ a {
 }
 
 #avatar span {
-  background: linear-gradient(90deg, rgba(254,93,224,1) 0%, rgba(242,1,2,1) 16%, rgba(255,134,1,1) 33%, rgba(252,246,1,1) 49%, rgba(1,135,35,1) 66%, rgba(69,0,253,1) 83%, rgba(132,2,136,1) 100%);
+  background: var(--linea-bg-color);
   border-radius: 50%;
   width: 207px;
   height: 207px;
@@ -106,7 +107,7 @@ footer p {
   margin-top: 32px;
   font-size: 20px;
   font-weight: 600;
-  background: -webkit-linear-gradient(0deg, rgba(254,93,224,1) 0%, rgba(242,1,2,1) 16%, rgba(255,134,1,1) 33%, rgba(252,246,1,1) 49%, rgba(1,135,35,1) 66%, rgba(69,0,253,1) 83%, rgba(132,2,136,1) 100%);
+  background: var(--linea-bg-color);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
